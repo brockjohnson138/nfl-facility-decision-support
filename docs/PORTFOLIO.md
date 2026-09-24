@@ -2,7 +2,11 @@
 
 ## One-sentence description
 
-Built a reproducible Python decision-support system that benchmarks NFL player-availability reporting, evaluates predictive models, and compares stay, investigate, and relocate decisions under uncertainty about a proposed environmental hazard.
+Built a reproducible Python decision-support system that benchmarks NFL player-availability reporting, evaluates temporal count models, and compares stay, investigate, and relocate decisions under uncertainty about a proposed environmental hazard.
+
+## Portfolio result
+
+Across the 2016–2025 public reporting snapshot, San Francisco averaged 2.47 players designated **Out** per observed game versus 1.89 for the other 31 teams. A temporally evaluated Poisson model reduced test MAE to 1.23 from a 1.45 training-mean baseline. Under the explicitly hypothetical financial scenario, relocation remained economically unattractive; the project uses that result to show why facility measurements and clinical data are prerequisites for a real decision.
 
 ## What the project demonstrates
 
@@ -18,6 +22,6 @@ The project does not estimate an electromagnetic causal effect, diagnose players
 
 ## Suggested LinkedIn project entry
 
-**NFL Facility Risk Decision Support**
+**NFL Player Availability and Facility-Risk Decision Support**
 
 Built a Python-based decision-support system to examine whether San Francisco's player-availability reporting burden appeared unusual, evaluate temporal count models, and compare stay, investigate, and relocate options under uncertainty. Used public nflverse injury reports, rosters, schedules, and contract snapshots with documented provenance. Designed the analysis to distinguish descriptive comparisons and predictive associations from causal claims about a proposed environmental hazard.

@@ -4,3 +4,5 @@ scikit-learn
 pyarrow
 joblib
 pdfplumber
+matplotlib>=3.8
+pytest>=8.0
