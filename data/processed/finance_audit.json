@@ -1,0 +1,9 @@
+{
+  "raw_contract_rows": 52904,
+  "unique_sf_player_season_candidates": 814,
+  "conflicting_candidate_rows_excluded": 0,
+  "unique_sf_player_seasons": 814,
+  "out_designations": 409,
+  "cash_match_rate": 0.9657701711491442,
+  "definition": "Annual cash/cap allocation divided by scheduled team games, summed across Out designations. Does not measure injury-attributable loss, avoidable salary, player value, or relocation benefit. Current historical snapshot can contain revisions. Conflicting player-year values excluded; no name-only matching."
+}
