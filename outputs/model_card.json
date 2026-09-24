@@ -1,0 +1,46 @@
+{
+  "target": "Number of players designated Out in each observed team-game injury report; not incident injuries, all games missed, or IR burden.",
+  "selected_model": "poisson",
+  "features": [
+    "week",
+    "rest",
+    "home",
+    "out_count_lag1",
+    "out_count_lag3",
+    "listed_count_lag1",
+    "listed_count_lag3",
+    "reserve_count_lag1",
+    "reserve_count_lag3",
+    "mean_roster_age_lag1",
+    "score_margin_lag3",
+    "missing_previous_report",
+    "team"
+  ],
+  "training_seasons": [
+    2016,
+    2023
+  ],
+  "selection_validation_seasons": [
+    2021,
+    2022,
+    2023
+  ],
+  "interval_calibration_season": 2024,
+  "test_season": 2025,
+  "train_rows": 4184,
+  "calibration_rows": 543,
+  "test_rows": 544,
+  "test_mae_improvement_over_training_mean": 0.2167581149206286,
+  "team_block_bootstrap_95_interval": [
+    0.12990490922793688,
+    0.31177921832235894
+  ],
+  "limits": [
+    "Predictive associations are not causal effects. No EMF exposure feature exists.",
+    "Lags are previous games within season; no current injury status or current result is a predictor.",
+    "Historical snapshots lack full as-of versioning; this is retrospective temporal evaluation, not a verified live trading-style backtest.",
+    "Intervals calibrated on 2024 residuals are empirical; temporal and team dependence prevent guaranteed nominal coverage.",
+    "Models and hyperparameters fixed before final test evaluation. Latest test features may use earlier observed games in 2025; weights are frozen.",
+    "Team identity and reserve counts may encode reporting practices; feature importance does not identify causes."
+  ]
+}
