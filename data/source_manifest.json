@@ -1,0 +1,186 @@
+[
+  {
+    "file": "injuries_2015.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2015.csv",
+    "retrieved_utc": "2026-09-23T17:14:24.955495+00:00",
+    "status": "downloaded",
+    "bytes": 715948,
+    "sha256": "fbca54ef42594cc52facc0d8c8dd74802b812771b9e33032e44ae8c7e21b0360"
+  },
+  {
+    "file": "injuries_2016.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2016.csv",
+    "retrieved_utc": "2026-09-23T17:14:24.956111+00:00",
+    "status": "downloaded",
+    "bytes": 674980,
+    "sha256": "504e05968cb9c54ddc730fd9b6e7d1dd16a62db8029cc784d3d7bafcea7ff7cb"
+  },
+  {
+    "file": "injuries_2017.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2017.csv",
+    "retrieved_utc": "2026-09-23T17:14:24.956198+00:00",
+    "status": "downloaded",
+    "bytes": 665280,
+    "sha256": "0d5139fbf41b0866517bd2bd5fd85bb20dbd4dd9bc36a706fed030a88731de6f"
+  },
+  {
+    "file": "injuries_2018.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2018.csv",
+    "retrieved_utc": "2026-09-23T17:14:24.956313+00:00",
+    "status": "downloaded",
+    "bytes": 665119,
+    "sha256": "4724e1f37cc3076f564e997fbf269190e7dbe795a39315b903788e0a9c40065e"
+  },
+  {
+    "file": "injuries_2019.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2019.csv",
+    "retrieved_utc": "2026-09-23T17:14:25.343332+00:00",
+    "status": "downloaded",
+    "bytes": 700757,
+    "sha256": "daddfe8e04ddc3a29bce14f362e774fbadfb274c807f1f0fde7b5bf32aaf6cdf"
+  },
+  {
+    "file": "injuries_2020.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2020.csv",
+    "retrieved_utc": "2026-09-23T17:14:25.347571+00:00",
+    "status": "downloaded",
+    "bytes": 737474,
+    "sha256": "706cca82824214f6b73ba0c6e537d3ee39766a50c644b8974b9fc28d7518de90"
+  },
+  {
+    "file": "injuries_2021.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2021.csv",
+    "retrieved_utc": "2026-09-23T17:14:25.350929+00:00",
+    "status": "downloaded",
+    "bytes": 737083,
+    "sha256": "1049fb9ff0fe7cfcf3ba8bfe1f5a35d3aba985c461c8fb7bf5201735b6d34254"
+  },
+  {
+    "file": "injuries_2022.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2022.csv",
+    "retrieved_utc": "2026-09-23T17:14:25.369391+00:00",
+    "status": "downloaded",
+    "bytes": 752433,
+    "sha256": "5f0d60324e597edd1a2ced8540b04e40b51dd440591dd1df11b8d96343387c9e"
+  },
+  {
+    "file": "injuries_2023.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2023.csv",
+    "retrieved_utc": "2026-09-23T17:14:25.732311+00:00",
+    "status": "downloaded",
+    "bytes": 738501,
+    "sha256": "16b04e21da5aa3944cfa9c22cafcc84ed7e6d9866eaddf0344e9b8cbf2f63afe"
+  },
+  {
+    "file": "injuries_2024.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2024.csv",
+    "retrieved_utc": "2026-09-23T17:14:25.743048+00:00",
+    "status": "downloaded",
+    "bytes": 816989,
+    "sha256": "498bce8e13cb64b2ab9bb0ad6cb81d0a63c2ddb24016c9fc90c2de2126fae449"
+  },
+  {
+    "file": "injuries_2025.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2025.csv",
+    "retrieved_utc": "2026-09-23T17:14:25.743872+00:00",
+    "status": "downloaded",
+    "bytes": 696006,
+    "sha256": "873ca1606dd575bd01152508a243ef6b3a0f8f97b90b707217e62ee8c7ceb735"
+  },
+  {
+    "file": "games.csv",
+    "url": "https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv",
+    "retrieved_utc": "2026-09-23T17:14:25.768770+00:00",
+    "status": "downloaded",
+    "bytes": 2180023,
+    "sha256": "379405c1032beefc419137d86e08207d8e4147586c0176c9b16e2cdcd116fe28"
+  },
+  {
+    "file": "historical_contracts.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/contracts/historical_contracts.parquet",
+    "retrieved_utc": "2026-09-23T17:14:25.771527+00:00",
+    "status": "downloaded",
+    "bytes": 11236212,
+    "sha256": "18164191b6d6937a7b7697d5fe20c819be1189e9390bde2c5665d39c2066fd7a"
+  },
+  {
+    "file": "roster_weekly_2016.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2016.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.093827+00:00",
+    "status": "downloaded",
+    "bytes": 754038,
+    "sha256": "70d0ceab697860e946a2acdafcae48809015dcdaf06bd21d26777473cff7db8f"
+  },
+  {
+    "file": "roster_weekly_2017.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2017.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.094383+00:00",
+    "status": "downloaded",
+    "bytes": 734927,
+    "sha256": "2f633cf331f561ea5346238a1808e8a68811eb280084e75f0dd09880535c5012"
+  },
+  {
+    "file": "roster_weekly_2018.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2018.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.094474+00:00",
+    "status": "downloaded",
+    "bytes": 762634,
+    "sha256": "0fcd3c3f098dbb5350be2095959acf38202602c6b3c71475e883fabda23077a8"
+  },
+  {
+    "file": "roster_weekly_2019.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2019.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.094537+00:00",
+    "status": "downloaded",
+    "bytes": 778811,
+    "sha256": "08ef64996cecdff2f4631ca26b21ed9a39bf5fba0b3379d902e531facf81e5c4"
+  },
+  {
+    "file": "roster_weekly_2020.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2020.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.522494+00:00",
+    "status": "downloaded",
+    "bytes": 843938,
+    "sha256": "8d601bf5c5d669465481421ad5cd1a1470d51792054e84bdc04f3620785f7530"
+  },
+  {
+    "file": "roster_weekly_2021.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2021.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.533585+00:00",
+    "status": "downloaded",
+    "bytes": 817361,
+    "sha256": "3e9f67569e940b54b3778ef2c9150850920b5bf93143bad3bd158e649825cf6b"
+  },
+  {
+    "file": "roster_weekly_2022.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2022.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.541814+00:00",
+    "status": "downloaded",
+    "bytes": 803573,
+    "sha256": "063c0da93f612811e1c4a4c12727a56fd2716197864795f15aa2f10a591b00c0"
+  },
+  {
+    "file": "roster_weekly_2023.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2023.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.585154+00:00",
+    "status": "downloaded",
+    "bytes": 794392,
+    "sha256": "0fa5abf9b462a087ecb17f3268ed7233ce9935e95d77be94ad6bac66adf8e281"
+  },
+  {
+    "file": "roster_weekly_2024.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2024.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.924761+00:00",
+    "status": "downloaded",
+    "bytes": 829272,
+    "sha256": "4b144e8eda5a159f36037b02e8b7d5a7861acb65b0816b0a063244992038dcf8"
+  },
+  {
+    "file": "roster_weekly_2025.parquet",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2025.parquet",
+    "retrieved_utc": "2026-09-23T17:14:59.947469+00:00",
+    "status": "downloaded",
+    "bytes": 850871,
+    "sha256": "a8764c947bfe6a9d8f122a194e3f026973c8efcc8a3456c67cbfac4371c20342"
+  }
+]
