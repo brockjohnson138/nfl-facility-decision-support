@@ -12,4 +12,11 @@ data/processed/*.parquet
 data/processed/player_reports.csv
 data/processed/team_games.csv
 data/processed/weekly_rosters.parquet
+
+# Do not publish player-level health or compensation records.
+data/processed/contract_conflicts.csv
+data/processed/sf_contract_seasons.csv
+data/processed/sf_compensation_summary.csv
+data/processed/sf_out_compensation.csv
+data/processed/unmatched_reports.csv
 outputs/selected_model.joblib
