@@ -1,0 +1,60 @@
+{
+  "seasons": [
+    2016,
+    2025
+  ],
+  "raw_regular_season_reports": 53440,
+  "deduplicated_reports": 53421,
+  "duplicate_rows_removed": 2,
+  "unmatched_reports": 17,
+  "team_games": 5278,
+  "scheduled_games": 2639,
+  "observed_team_games": 5271,
+  "missing_report_team_games": 7,
+  "missing_report_examples": [
+    {
+      "season": 2023,
+      "team": "ATL",
+      "week": 5
+    },
+    {
+      "season": 2022,
+      "team": "CHI",
+      "week": 7
+    },
+    {
+      "season": 2024,
+      "team": "DEN",
+      "week": 1
+    },
+    {
+      "season": 2022,
+      "team": "JAX",
+      "week": 2
+    },
+    {
+      "season": 2022,
+      "team": "JAX",
+      "week": 12
+    },
+    {
+      "season": 2017,
+      "team": "LA",
+      "week": 1
+    },
+    {
+      "season": 2020,
+      "team": "MIN",
+      "week": 1
+    }
+  ],
+  "roster_rows": 444646,
+  "roster_team_games_missing": 0,
+  "missing_player_ids": 0,
+  "notes": [
+    "Blank report status is not Out. A missing whole team report is unknown.",
+    "Out designations can repeat for one injury and exclude many reserve-list absences.",
+    "Reserve status includes non-injury reserve categories; it is NOT an injured-reserve count.",
+    "Anatomical text is a proxy, not a clinical diagnosis or injury mechanism."
+  ]
+}
