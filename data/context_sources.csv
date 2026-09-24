@@ -1,0 +1,6 @@
+id,metric,value,unit,reference_period,evidence_type,url,application
+sf_value_2025,49ers estimated enterprise value,8600,USD million,2025 valuation,publisher estimate,https://www.forbes.com.au/news/sport/the-nfls-most-valuable-teams-2025/,Context only; not annual injury loss
+sf_revenue_2024,49ers estimated revenue,723,USD million,2024 season,publisher estimate,https://www.forbes.com.au/news/sport/the-nfls-most-valuable-teams-2025/,Context only; not marginal revenue per win
+sf_operating_2024,49ers estimated operating income,115,USD million,2024 season,publisher estimate,https://www.forbes.com.au/news/sport/the-nfls-most-valuable-teams-2025/,Context only; not audited team financials
+jax_facility,Jacksonville training facility,120,USD million,2023 opening,team published project cost,https://www.jaguars.com/news/miller-electric-center-opening-jaguars,Historical comparator; not Bay Area relocation quote
+lac_facility,Chargers training facility,250,USD million,2024 facility described in 2025 award,engineering project profile,https://cfsei.memberclicks.net/2025-cfsei-design-excellence-third-place-winner-municipal-lochsa-la-chargers-hq-training-facility-the-bolt,Historical comparator; differing land and scope
