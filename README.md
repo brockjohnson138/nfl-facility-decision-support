@@ -22,6 +22,8 @@ python run_pipeline.py
 
 The script writes processed data and model outputs to `data/processed/` and `outputs/`. Existing downloads are reused; provenance and SHA-256 hashes are in `data/source_manifest.json`.
 
+The public repository intentionally excludes player-level health and compensation records. Aggregate outputs are sufficient to reproduce the portfolio narrative without exposing sensitive derived rows.
+
 ## Interpretation guardrails
 
 The project deliberately does not estimate an electromagnetic causal effect from team injury reports. A nearby substation is not an exposure measurement, and no validated exposure-to-ligament-injury function is available. Scenario probabilities are user-entered assumptions. See `docs/EVIDENCE.md` for sources, limitations, and acquisition gaps.
