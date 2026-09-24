@@ -1,0 +1,37 @@
+{
+  "scenario_only": true,
+  "action_values_m": {
+    "Stay": 0.0,
+    "Investigate": -0.25,
+    "Relocate": -162.7704658178955
+  },
+  "preferred_action": "Stay",
+  "state_move_npv_m": {
+    "no_hazard": -163.5202476073416,
+    "hazard": -156.02242971288098
+  },
+  "study_branches": {
+    "positive": {
+      "signal_probability": 0.26,
+      "posterior_hazard_probability": 0.30769230769230776,
+      "action": "Stay"
+    },
+    "negative": {
+      "signal_probability": 0.7400000000000001,
+      "posterior_hazard_probability": 0.02702702702702701,
+      "action": "Stay"
+    }
+  },
+  "perfect_information_value_m": 0,
+  "sample_information_value_at_delayed_decision_m": 0,
+  "net_study_advantage_vs_act_now_m": -0.25,
+  "break_even_probability_times_fraction": 4.36180899320456,
+  "minimax_regret_action": "Stay",
+  "max_regret_m": {
+    "Stay": 0.0,
+    "Investigate": 0.25,
+    "Relocate": 163.5202476073416
+  },
+  "annual_benefit_if_hazard_m": 0.88,
+  "expected_annual_units_avoided": 0.8000000000000002
+}
