@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Raw snapshots are reproducible from source_manifest.json and may be large.
+data/raw/
+
+# Local generated data/model artifacts; keep the small published tables only.
+data/processed/*.parquet
+data/processed/player_reports.csv
+data/processed/team_games.csv
+data/processed/weekly_rosters.parquet
+outputs/selected_model.joblib
