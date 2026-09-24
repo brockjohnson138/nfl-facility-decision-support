@@ -1,0 +1,8 @@
+model,feature,standardized_log_odds_coefficient
+History only,prior_margin_difference,0.4171148622169154
+History only,rest_difference,0.051777712880912985
+History only,week,0.06779374566173978
+History + Out reports,prior_margin_difference,0.40981341965779716
+History + Out reports,rest_difference,0.04455360703891262
+History + Out reports,week,0.06901123016395357
+History + Out reports,out_difference,-0.09576947599578414
