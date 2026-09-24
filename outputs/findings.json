@@ -1,0 +1,12 @@
+{
+  "sf_mean_out_per_game": 2.473897058823529,
+  "other_31_mean_out_per_game": 1.890907653383934,
+  "sf_decade_rank": 3,
+  "mean_difference": 0.5829894054395952,
+  "paired_season_bootstrap_95_interval": [
+    0.04333963867805193,
+    1.1200120967741933
+  ],
+  "recent_3_year_mean_sf_out_designations": 43.666666666666664,
+  "interpretation": "Descriptive comparisons of report designations, not injury incidence or an exposure effect. Bootstrap resamples only ten paired seasons; adjacent seasons may be dependent. Team means weight each season equally. Missing report games excluded. Outcomes model is predictive only; no coefficient is converted into causal wins or revenue."
+}
